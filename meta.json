@@ -1,0 +1,26 @@
+{
+  "repo": "optimizer-for-windows-complete",
+  "product": "Optimizer for Windows Complete",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "system-tools",
+  "topics": [
+    "optimizer-for-windows-complete",
+    "optimizer-desktop",
+    "optimizer-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "zentool.art"
+}
